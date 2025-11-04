@@ -1,9 +1,4 @@
-# 🎓 Student Attendance Tracker (Code Squad)
-# Developed by:
-# 25BDS0206 - Mohammed Thalha
-# 25BDS0193 - Nitin Krishna
-# 25BDS0195 - Prajanth R
-# 25BDS0135 - Shanmugesh
+# Student Attendance Tracker (Code Squad)
 
 import mysql.connector
 from datetime import date
