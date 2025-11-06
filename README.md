@@ -17,6 +17,7 @@ It allows adding student details, marking daily attendance, viewing attendance r
 | 25BDS0193    | Nitin Krishna    |
 | 25BDS0195    | Prajanth R       |
 | 25BDS0135    | Shanmugesh       |
+| 25BDS0154    | Nikhil           |
 
 ---
 
